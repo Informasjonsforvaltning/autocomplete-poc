@@ -1,0 +1,2189 @@
+[
+    {
+        "hasAccuracyAnnotation": null,
+        "references": null,
+        "contactPoint": null,
+        "subject": null,
+        "catalog": {
+            "publisher": {
+                "orgPath": "/ANNET/910258028",
+                "organisasjonsform": null,
+                "prefLabel": {
+                    "nb": "Liland og erdal revisjon"
+                },
+                "name": "LILAND OG ERDAL REVISJON",
+                "id": "910258028",
+                "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+            },
+            "description": null,
+            "id": "a73bfe26-7cce-3989-822d-df5f7ee1080f",
+            "title": {
+                "nb": "Datakatalog for LILAND OG ERDAL REVISJON"
+            },
+            "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028"
+        },
+        "prev": null,
+        "language": null,
+        "source": null,
+        "legalBasisForProcessing": null,
+        "type": "datasets",
+        "objective": null,
+        "modified": null,
+        "id": "02ce8411-d932-31b9-b08f-e657bdee42bd",
+        "accessRightsComment": null,
+        "keyword": null,
+        "issued": null,
+        "spatial": null,
+        "temporal": null,
+        "identifier": [
+            "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/59af582e-1cbf-4680-a65f-0c30290f601d"
+        ],
+        "isRelatedToTransportportal": false,
+        "descriptionFormatted": {
+            "nb": "Test RSS ATOM\n\n---\nFormål: Test RSS ATOM"
+        },
+        "fdkFormatPrefixed": [],
+        "informationModel": null,
+        "legalBasisForRestriction": null,
+        "hasRelevanceAnnotation": null,
+        "hasCurrentnessAnnotation": null,
+        "publisher": {
+            "orgPath": "/ANNET/910258028",
+            "organisasjonsform": null,
+            "prefLabel": {
+                "nb": "Liland og erdal revisjon"
+            },
+            "name": "LILAND OG ERDAL REVISJON",
+            "id": "910258028",
+            "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+        },
+        "losTheme": [
+            {
+                "code": "naring",
+                "isTema": true,
+                "name": {
+                    "nn": "Næring",
+                    "nb": "Næring",
+                    "en": "Business"
+                },
+                "losPaths": [
+                    "naring"
+                ],
+                "uri": "https://psi.norge.no/los/tema/naring"
+            },
+            {
+                "code": "natur-klima-og-miljo",
+                "isTema": true,
+                "name": {
+                    "nn": "Natur, klima og miljø",
+                    "nb": "Natur, klima og miljø",
+                    "en": "Nature, climate and environment"
+                },
+                "losPaths": [
+                    "natur-klima-og-miljo"
+                ],
+                "uri": "https://psi.norge.no/los/tema/natur-klima-og-miljo"
+            }
+        ],
+        "accrualPeriodicity": null,
+        "page": null,
+        "conformsTo": null,
+        "hasCompletenessAnnotation": null,
+        "isOpenData": false,
+        "dctType": null,
+        "description": {
+            "nb": "Test RSS ATOM\n\n---\nFormål: Test RSS ATOM"
+        },
+        "hasAvailabilityAnnotation": null,
+        "title": {
+            "nb": "Test RSS ATOM"
+        },
+        "distribution": null,
+        "provenance": null,
+        "qualifiedAttributions": null,
+        "inSeries": null,
+        "theme": [
+            {
+                "code": "ENVI",
+                "title": {
+                    "nn": "Miljø",
+                    "no": "Miljø",
+                    "nb": "Miljø",
+                    "en": "Environment"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
+            }
+        ],
+        "admsIdentifier": null,
+        "harvest": {
+            "firstHarvested": "2021-03-17T10:00:23Z",
+            "changed": [
+                "2022-11-25T08:30:58Z"
+            ]
+        },
+        "landingPage": null,
+        "isAuthoritative": false,
+        "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/59af582e-1cbf-4680-a65f-0c30290f601d",
+        "sample": null,
+        "eurovocThemes": null,
+        "themeUris": [
+            "http://publications.europa.eu/resource/authority/data-theme/ENVI",
+            "https://psi.norge.no/los/tema/naring",
+            "https://psi.norge.no/los/tema/natur-klima-og-miljo"
+        ],
+        "accessRights": {
+            "code": "PUBLIC",
+            "prefLabel": {
+                "en": "public"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+        },
+        "legalBasisForAccess": null
+    },
+    {
+        "hasAccuracyAnnotation": null,
+        "references": null,
+        "contactPoint": null,
+        "subject": null,
+        "catalog": {
+            "publisher": {
+                "orgPath": "/ANNET/910258028",
+                "organisasjonsform": null,
+                "prefLabel": {
+                    "nb": "Liland og erdal revisjon"
+                },
+                "name": "LILAND OG ERDAL REVISJON",
+                "id": "910258028",
+                "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+            },
+            "description": null,
+            "id": "a73bfe26-7cce-3989-822d-df5f7ee1080f",
+            "title": {
+                "nb": "Datakatalog for LILAND OG ERDAL REVISJON"
+            },
+            "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028"
+        },
+        "prev": null,
+        "language": null,
+        "source": null,
+        "legalBasisForProcessing": null,
+        "type": "datasets",
+        "objective": null,
+        "modified": null,
+        "id": "16c66b07-285d-38b5-a3a1-08a849039498",
+        "accessRightsComment": null,
+        "keyword": [
+            {
+                "nb": "tullogtøys"
+            }
+        ],
+        "issued": null,
+        "spatial": null,
+        "temporal": null,
+        "identifier": [
+            "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/ceb1e9b6-056a-4e02-8788-7faa40f7d832"
+        ],
+        "isRelatedToTransportportal": false,
+        "descriptionFormatted": {
+            "nb": "Servieedition bugfix testen\n\n---\nFormål: test "
+        },
+        "fdkFormatPrefixed": [],
+        "informationModel": null,
+        "legalBasisForRestriction": null,
+        "hasRelevanceAnnotation": null,
+        "hasCurrentnessAnnotation": null,
+        "publisher": {
+            "orgPath": "/ANNET/910258028",
+            "organisasjonsform": null,
+            "prefLabel": {
+                "nb": "Liland og erdal revisjon"
+            },
+            "name": "LILAND OG ERDAL REVISJON",
+            "id": "910258028",
+            "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+        },
+        "losTheme": null,
+        "accrualPeriodicity": null,
+        "page": null,
+        "conformsTo": null,
+        "hasCompletenessAnnotation": null,
+        "isOpenData": false,
+        "dctType": "Kodelister",
+        "description": {
+            "nb": "Servieedition bugfix testen\n\n---\nFormål: test "
+        },
+        "hasAvailabilityAnnotation": null,
+        "title": {
+            "nb": "Mandag morra blues"
+        },
+        "distribution": [
+            {
+                "openLicense": false,
+                "accessURL": null,
+                "downloadURL": null,
+                "format": null,
+                "description": null,
+                "mediaType": null,
+                "compressFormat": null,
+                "title": null,
+                "type": null,
+                "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/ceb1e9b6-056a-4e02-8788-7faa40f7d832/.well-known/skolem/6a2ce2d7-f2df-3c94-adfb-9f1bb999fc5b",
+                "license": null,
+                "accessService": null,
+                "packageFormat": null,
+                "conformsTo": null,
+                "page": null,
+                "fdkFormat": null
+            }
+        ],
+        "provenance": null,
+        "qualifiedAttributions": null,
+        "inSeries": null,
+        "theme": null,
+        "admsIdentifier": null,
+        "harvest": {
+            "firstHarvested": "2021-03-17T10:00:23Z",
+            "changed": [
+                "2022-11-25T08:30:58Z"
+            ]
+        },
+        "landingPage": null,
+        "isAuthoritative": false,
+        "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/ceb1e9b6-056a-4e02-8788-7faa40f7d832",
+        "sample": null,
+        "eurovocThemes": null,
+        "themeUris": null,
+        "accessRights": {
+            "code": "PUBLIC",
+            "prefLabel": {
+                "en": "public"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+        },
+        "legalBasisForAccess": null
+    },
+    {
+        "hasAccuracyAnnotation": null,
+        "references": null,
+        "contactPoint": null,
+        "subject": null,
+        "catalog": {
+            "publisher": {
+                "orgPath": "/ANNET/910258028",
+                "organisasjonsform": null,
+                "prefLabel": {
+                    "nb": "Liland og erdal revisjon"
+                },
+                "name": "LILAND OG ERDAL REVISJON",
+                "id": "910258028",
+                "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+            },
+            "description": null,
+            "id": "a73bfe26-7cce-3989-822d-df5f7ee1080f",
+            "title": {
+                "nb": "Datakatalog for LILAND OG ERDAL REVISJON"
+            },
+            "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028"
+        },
+        "prev": null,
+        "language": null,
+        "source": null,
+        "legalBasisForProcessing": null,
+        "type": "datasets",
+        "objective": null,
+        "modified": null,
+        "id": "42435a5c-3dce-33e4-81d5-94a4ef82cdd6",
+        "accessRightsComment": null,
+        "keyword": null,
+        "issued": null,
+        "spatial": null,
+        "temporal": null,
+        "identifier": [
+            "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/e358bb35-e19c-4235-8286-b996871de334"
+        ],
+        "isRelatedToTransportportal": false,
+        "descriptionFormatted": {
+            "nb": "En test av rapport\n\n---\nFormål: test"
+        },
+        "fdkFormatPrefixed": [
+            "MEDIA_TYPE csv"
+        ],
+        "informationModel": null,
+        "legalBasisForRestriction": null,
+        "hasRelevanceAnnotation": null,
+        "hasCurrentnessAnnotation": null,
+        "publisher": {
+            "orgPath": "/ANNET/910258028",
+            "organisasjonsform": null,
+            "prefLabel": {
+                "nb": "Liland og erdal revisjon"
+            },
+            "name": "LILAND OG ERDAL REVISJON",
+            "id": "910258028",
+            "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+        },
+        "losTheme": [
+            {
+                "code": "samfunnssikkerhet-og-beredskap",
+                "isTema": true,
+                "name": {
+                    "nn": "Samfunnstryggleik og beredskap",
+                    "nb": "Samfunnssikkerhet og beredskap",
+                    "en": "Civil protection and emergency planning"
+                },
+                "losPaths": [
+                    "samfunnssikkerhet-og-beredskap"
+                ],
+                "uri": "https://psi.norge.no/los/tema/samfunnssikkerhet-og-beredskap"
+            }
+        ],
+        "accrualPeriodicity": null,
+        "page": null,
+        "conformsTo": null,
+        "hasCompletenessAnnotation": null,
+        "isOpenData": false,
+        "dctType": null,
+        "description": {
+            "nb": "En test av rapport\n\n---\nFormål: test"
+        },
+        "hasAvailabilityAnnotation": null,
+        "title": {
+            "nb": "Rapporttest"
+        },
+        "distribution": [
+            {
+                "openLicense": false,
+                "accessURL": null,
+                "downloadURL": null,
+                "format": [
+                    "https://www.iana.org/assignments/media-types/text/csv"
+                ],
+                "description": null,
+                "mediaType": [
+                    {
+                        "code": "text/csv",
+                        "prefLabel": {
+                            "nb": "text/csv"
+                        },
+                        "uri": "https://www.iana.org/assignments/media-types/text/csv"
+                    }
+                ],
+                "compressFormat": null,
+                "title": {
+                    "nb": "Ny distribusjon for iskrem"
+                },
+                "type": null,
+                "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/e358bb35-e19c-4235-8286-b996871de334/.well-known/skolem/a6db1b98-ceae-36f1-b330-928bec9b34de",
+                "license": null,
+                "accessService": null,
+                "packageFormat": null,
+                "conformsTo": null,
+                "page": null,
+                "fdkFormat": [
+                    {
+                        "code": "text/csv",
+                        "name": "csv",
+                        "type": "MEDIA_TYPE",
+                        "uri": "https://www.iana.org/assignments/media-types/text/csv"
+                    }
+                ]
+            }
+        ],
+        "provenance": null,
+        "qualifiedAttributions": null,
+        "inSeries": null,
+        "theme": [
+            {
+                "code": "JUST",
+                "title": {
+                    "nn": "Justis, rettssystem og allmenn tryggleik",
+                    "no": "Justis, rettssystem og allmenn sikkerhet",
+                    "nb": "Justis, rettssystem og allmenn sikkerhet",
+                    "en": "Justice, legal system and public safety"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/data-theme/JUST"
+            }
+        ],
+        "admsIdentifier": null,
+        "harvest": {
+            "firstHarvested": "2021-03-17T10:00:23Z",
+            "changed": [
+                "2022-11-25T08:30:58Z"
+            ]
+        },
+        "landingPage": null,
+        "isAuthoritative": false,
+        "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/e358bb35-e19c-4235-8286-b996871de334",
+        "sample": null,
+        "eurovocThemes": null,
+        "themeUris": [
+            "http://publications.europa.eu/resource/authority/data-theme/JUST",
+            "https://psi.norge.no/los/tema/samfunnssikkerhet-og-beredskap"
+        ],
+        "accessRights": {
+            "code": "PUBLIC",
+            "prefLabel": {
+                "en": "public"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+        },
+        "legalBasisForAccess": null
+    },
+    {
+        "hasAccuracyAnnotation": null,
+        "references": null,
+        "contactPoint": null,
+        "subject": [
+            {
+                "identifier": "http://begrepskatalogen/begrep/5cd23f64-dc82-11e5-9b2b-d6d6eb145c82",
+                "prefLabel": {
+                    "nb": "positive tester"
+                },
+                "definition": {
+                    "nb": "Tester reaksjon og resultater som skal leveres av testobjektet - inkludert håndtering av spesifiserte unntak og feilsituasjoner."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/483a9bc8-d1d8-4324-8b9b-a26b6939a49e"
+            }
+        ],
+        "catalog": {
+            "publisher": {
+                "orgPath": "/ANNET/910258028",
+                "organisasjonsform": null,
+                "prefLabel": {
+                    "nb": "Liland og erdal revisjon"
+                },
+                "name": "LILAND OG ERDAL REVISJON",
+                "id": "910258028",
+                "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+            },
+            "description": null,
+            "id": "a73bfe26-7cce-3989-822d-df5f7ee1080f",
+            "title": {
+                "nb": "Datakatalog for LILAND OG ERDAL REVISJON"
+            },
+            "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028"
+        },
+        "prev": null,
+        "language": null,
+        "source": null,
+        "legalBasisForProcessing": null,
+        "type": "datasets",
+        "objective": null,
+        "modified": null,
+        "id": "008ed94d-4422-3ddb-b51a-c6aa5b497a8c",
+        "accessRightsComment": null,
+        "keyword": null,
+        "issued": null,
+        "spatial": null,
+        "temporal": null,
+        "identifier": [
+            "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/4e42f884-68b5-4490-aeb5-7838b12545cf"
+        ],
+        "isRelatedToTransportportal": false,
+        "descriptionFormatted": {
+            "nb": "Dette er en test for å se om Lesbarheten går ned. \nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nv\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON.\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON.\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\n\n---\nFormål: Dette er en test for å se om Lesbarheten går ned"
+        },
+        "fdkFormatPrefixed": [
+            "MEDIA_TYPE vnd.geo+json (OBSOLETED by [RFC7946] in favor of application/geo+json)"
+        ],
+        "informationModel": null,
+        "legalBasisForRestriction": null,
+        "hasRelevanceAnnotation": null,
+        "hasCurrentnessAnnotation": null,
+        "publisher": {
+            "orgPath": "/ANNET/910258028",
+            "organisasjonsform": null,
+            "prefLabel": {
+                "nb": "Liland og erdal revisjon"
+            },
+            "name": "LILAND OG ERDAL REVISJON",
+            "id": "910258028",
+            "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+        },
+        "losTheme": [
+            {
+                "code": "avfallshandtering",
+                "isTema": true,
+                "name": null,
+                "losPaths": null,
+                "uri": "https://psi.norge.no/los/tema/avfallshandtering"
+            },
+            {
+                "code": "demokrati-og-innbyggerrettigheter",
+                "isTema": true,
+                "name": {
+                    "nn": "Demokrati og innbyggjarrettar",
+                    "nb": "Demokrati og innbyggerrettigheter",
+                    "en": "Democracy and citizen rights"
+                },
+                "losPaths": [
+                    "demokrati-og-innbyggerrettigheter"
+                ],
+                "uri": "https://psi.norge.no/los/tema/demokrati-og-innbyggerrettigheter"
+            },
+            {
+                "code": "energi",
+                "isTema": true,
+                "name": null,
+                "losPaths": null,
+                "uri": "https://psi.norge.no/los/tema/energi"
+            },
+            {
+                "code": "skole-og-utdanning",
+                "isTema": true,
+                "name": {
+                    "nn": "Skule og utdanning",
+                    "nb": "Skole og utdanning",
+                    "en": "Schools and education"
+                },
+                "losPaths": [
+                    "skole-og-utdanning"
+                ],
+                "uri": "https://psi.norge.no/los/tema/skole-og-utdanning"
+            }
+        ],
+        "accrualPeriodicity": null,
+        "page": null,
+        "conformsTo": null,
+        "hasCompletenessAnnotation": null,
+        "isOpenData": false,
+        "dctType": null,
+        "description": {
+            "nb": "Dette er en test for å se om Lesbarheten går ned. \nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nv\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON.\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON.\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\nDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON\n\n---\nFormål: Dette er en test for å se om Lesbarheten går ned"
+        },
+        "hasAvailabilityAnnotation": null,
+        "title": {
+            "nb": "Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJONDatasett for LILAND OG ERDAL REVISJON Datasett for LILAND OG ERDAL REVISJON"
+        },
+        "distribution": [
+            {
+                "openLicense": false,
+                "accessURL": [
+                    "https://liland.no"
+                ],
+                "downloadURL": null,
+                "format": [
+                    "https://www.iana.org/assignments/media-types/application/vnd.geo+json",
+                    "https://www.iana.org/assignments/media-types/application/x.wms"
+                ],
+                "description": null,
+                "mediaType": [
+                    {
+                        "code": "application/vnd.geo+json",
+                        "prefLabel": {
+                            "nb": "application/vnd.geo+json"
+                        },
+                        "uri": "https://www.iana.org/assignments/media-types/application/vnd.geo+json"
+                    }
+                ],
+                "compressFormat": null,
+                "title": {
+                    "nb": "Test for Distribusjonslenke Liland"
+                },
+                "type": null,
+                "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/4e42f884-68b5-4490-aeb5-7838b12545cf/.well-known/skolem/cf00b7b0-4fcc-3972-91be-f3bea88190ec",
+                "license": null,
+                "accessService": null,
+                "packageFormat": null,
+                "conformsTo": null,
+                "page": null,
+                "fdkFormat": [
+                    {
+                        "code": "application/vnd.geo+json",
+                        "name": "vnd.geo+json (OBSOLETED by [RFC7946] in favor of application/geo+json)",
+                        "type": "MEDIA_TYPE",
+                        "uri": "https://www.iana.org/assignments/media-types/application/vnd.geo+json"
+                    }
+                ]
+            }
+        ],
+        "provenance": null,
+        "qualifiedAttributions": [
+            {
+                "agent": {
+                    "orgPath": "/PRIVAT/983455204",
+                    "organisasjonsform": "NUF",
+                    "prefLabel": {
+                        "nb": "T & t ltd"
+                    },
+                    "name": "T & T LTD",
+                    "id": "983455204",
+                    "uri": "https://data.brreg.no/enhetsregisteret/api/enheter/983455204"
+                },
+                "role": "http://registry.it.csiro.au/def/isotc211/CI_RoleCode/contributor"
+            }
+        ],
+        "inSeries": null,
+        "theme": [
+            {
+                "code": "EDUC",
+                "title": {
+                    "nn": "Utdanning, kultur og sport",
+                    "no": "Utdanning, kultur og sport",
+                    "nb": "Utdanning, kultur og sport",
+                    "en": "Education, culture and sport"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
+            },
+            {
+                "code": "ENER",
+                "title": {
+                    "nn": "Energi",
+                    "no": "Energi",
+                    "nb": "Energi",
+                    "en": "Energy"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/data-theme/ENER"
+            }
+        ],
+        "admsIdentifier": null,
+        "harvest": {
+            "firstHarvested": "2021-03-17T10:00:23Z",
+            "changed": [
+                "2022-11-25T08:30:58Z"
+            ]
+        },
+        "landingPage": null,
+        "isAuthoritative": false,
+        "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/4e42f884-68b5-4490-aeb5-7838b12545cf",
+        "sample": null,
+        "eurovocThemes": null,
+        "themeUris": [
+            "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+            "http://publications.europa.eu/resource/authority/data-theme/ENER",
+            "https://psi.norge.no/los/tema/avfallshandtering",
+            "https://psi.norge.no/los/tema/demokrati-og-innbyggerrettigheter",
+            "https://psi.norge.no/los/tema/energi",
+            "https://psi.norge.no/los/tema/skole-og-utdanning"
+        ],
+        "accessRights": {
+            "code": "PUBLIC",
+            "prefLabel": {
+                "en": "public"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+        },
+        "legalBasisForAccess": null
+    },
+    {
+        "hasAccuracyAnnotation": null,
+        "references": null,
+        "contactPoint": null,
+        "subject": null,
+        "catalog": {
+            "publisher": {
+                "orgPath": "/ANNET/910258028",
+                "organisasjonsform": null,
+                "prefLabel": {
+                    "nb": "Liland og erdal revisjon"
+                },
+                "name": "LILAND OG ERDAL REVISJON",
+                "id": "910258028",
+                "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+            },
+            "description": null,
+            "id": "a73bfe26-7cce-3989-822d-df5f7ee1080f",
+            "title": {
+                "nb": "Datakatalog for LILAND OG ERDAL REVISJON"
+            },
+            "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028"
+        },
+        "prev": null,
+        "language": null,
+        "source": null,
+        "legalBasisForProcessing": null,
+        "type": "datasets",
+        "objective": null,
+        "modified": null,
+        "id": "78c75986-7bd7-3f13-826e-7f1980a30db0",
+        "accessRightsComment": null,
+        "keyword": null,
+        "issued": null,
+        "spatial": null,
+        "temporal": null,
+        "identifier": [
+            "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/1c9ab841-92a8-46ac-863f-aea973b69c87"
+        ],
+        "isRelatedToTransportportal": false,
+        "descriptionFormatted": {
+            "nb": "En oversikt over midtbanespillere som Kante, Fabinho, Dunga, Makelele, Skammelsrud"
+        },
+        "fdkFormatPrefixed": [],
+        "informationModel": null,
+        "legalBasisForRestriction": null,
+        "hasRelevanceAnnotation": null,
+        "hasCurrentnessAnnotation": null,
+        "publisher": {
+            "orgPath": "/ANNET/910258028",
+            "organisasjonsform": null,
+            "prefLabel": {
+                "nb": "Liland og erdal revisjon"
+            },
+            "name": "LILAND OG ERDAL REVISJON",
+            "id": "910258028",
+            "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+        },
+        "losTheme": [
+            {
+                "code": "batforerbevis",
+                "isTema": false,
+                "name": null,
+                "losPaths": null,
+                "uri": "https://psi.norge.no/los/ord/batforerbevis"
+            },
+            {
+                "code": "helse-og-omsorg",
+                "isTema": true,
+                "name": {
+                    "nn": "Helse og omsorg",
+                    "nb": "Helse og omsorg",
+                    "en": "Health and care"
+                },
+                "losPaths": [
+                    "helse-og-omsorg"
+                ],
+                "uri": "https://psi.norge.no/los/tema/helse-og-omsorg"
+            }
+        ],
+        "accrualPeriodicity": null,
+        "page": null,
+        "conformsTo": null,
+        "hasCompletenessAnnotation": null,
+        "isOpenData": false,
+        "dctType": null,
+        "description": {
+            "nb": "En oversikt over midtbanespillere som Kante, Fabinho, Dunga, Makelele, Skammelsrud"
+        },
+        "hasAvailabilityAnnotation": null,
+        "title": {
+            "nn": "Stabilisatorar",
+            "nb": "Stabilisatorer"
+        },
+        "distribution": [
+            {
+                "openLicense": false,
+                "accessURL": null,
+                "downloadURL": null,
+                "format": null,
+                "description": null,
+                "mediaType": null,
+                "compressFormat": null,
+                "title": null,
+                "type": null,
+                "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/1c9ab841-92a8-46ac-863f-aea973b69c87/.well-known/skolem/6a2ce2d7-f2df-3c94-adfb-9f1bb999fc5b",
+                "license": null,
+                "accessService": null,
+                "packageFormat": null,
+                "conformsTo": null,
+                "page": null,
+                "fdkFormat": null
+            }
+        ],
+        "provenance": null,
+        "qualifiedAttributions": null,
+        "inSeries": null,
+        "theme": [
+            {
+                "code": "HEAL",
+                "title": {
+                    "nn": "Helse",
+                    "no": "Helse",
+                    "nb": "Helse",
+                    "en": "Health"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+            }
+        ],
+        "admsIdentifier": null,
+        "harvest": {
+            "firstHarvested": "2021-03-17T10:00:23Z",
+            "changed": [
+                "2022-11-25T08:30:58Z"
+            ]
+        },
+        "landingPage": null,
+        "isAuthoritative": false,
+        "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/1c9ab841-92a8-46ac-863f-aea973b69c87",
+        "sample": null,
+        "eurovocThemes": null,
+        "themeUris": [
+            "http://publications.europa.eu/resource/authority/data-theme/HEAL",
+            "https://psi.norge.no/los/ord/batforerbevis",
+            "https://psi.norge.no/los/tema/helse-og-omsorg"
+        ],
+        "accessRights": {
+            "code": "PUBLIC",
+            "prefLabel": {
+                "en": "public"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+        },
+        "legalBasisForAccess": null
+    },
+    {
+        "hasAccuracyAnnotation": {
+            "inDimension": "http://iso.org/25012/2008/dataquality/Accuracy",
+            "hasBody": {
+                "nb": "Nei"
+            }
+        },
+        "references": [
+            {
+                "referenceType": {
+                    "code": "isPartOf",
+                    "prefLabel": {
+                        "nn": "Er del av",
+                        "nb": "Er en del av",
+                        "en": "Is Part Of"
+                    },
+                    "uri": "http://purl.org/dc/terms/isPartOf"
+                },
+                "source": {
+                    "prefLabel": null,
+                    "narrower": null,
+                    "broader": null,
+                    "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/993649c4-fd9d-4f49-906a-7ed0ab23cb70",
+                    "extraType": null
+                }
+            }
+        ],
+        "contactPoint": [
+            {
+                "hasURL": null,
+                "organizationName": null,
+                "organizationUnit": {
+                    "nb": "Rune"
+                },
+                "fullname": null,
+                "hasTelephone": null,
+                "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/efceee29-c7c9-4a2b-8bac-5994ff9db837/.well-known/skolem/d2db1db0-be52-309e-ac6d-bf0ae7c8b07c",
+                "email": null
+            }
+        ],
+        "subject": null,
+        "catalog": {
+            "publisher": {
+                "orgPath": "/ANNET/910258028",
+                "organisasjonsform": null,
+                "prefLabel": {
+                    "nb": "Liland og erdal revisjon"
+                },
+                "name": "LILAND OG ERDAL REVISJON",
+                "id": "910258028",
+                "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+            },
+            "description": null,
+            "id": "a73bfe26-7cce-3989-822d-df5f7ee1080f",
+            "title": {
+                "nb": "Datakatalog for LILAND OG ERDAL REVISJON"
+            },
+            "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028"
+        },
+        "prev": null,
+        "language": null,
+        "source": null,
+        "legalBasisForProcessing": null,
+        "type": "datasets",
+        "objective": null,
+        "modified": "2019-11-27",
+        "id": "17262ab1-954e-30d2-aeb8-543ccec6e26d",
+        "accessRightsComment": null,
+        "keyword": [
+            {
+                "nb": "hav"
+            }
+        ],
+        "issued": "2019-11-27",
+        "spatial": [
+            {
+                "code": null,
+                "prefLabel": null,
+                "uri": "https://data.geonorge.no/administrativeEnheter/fylke/id/173159"
+            }
+        ],
+        "temporal": [
+            {
+                "endDate": "2024-11-13",
+                "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/efceee29-c7c9-4a2b-8bac-5994ff9db837/.well-known/skolem/d60f2877-a431-3430-9779-dfda8ac180de",
+                "startDate": "2019-11-27"
+            }
+        ],
+        "identifier": [
+            "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/efceee29-c7c9-4a2b-8bac-5994ff9db837"
+        ],
+        "isRelatedToTransportportal": true,
+        "descriptionFormatted": {
+            "nb": "Dette er en hyllest av Rune Rudberg.\n\n---\nFormål: Det finnes ikke noe formål."
+        },
+        "fdkFormatPrefixed": [
+            "MEDIA_TYPE json"
+        ],
+        "informationModel": null,
+        "legalBasisForRestriction": null,
+        "hasRelevanceAnnotation": {
+            "inDimension": "http://iso.org/25012/2008/dataquality/Relevance",
+            "hasBody": {
+                "nb": "Nei"
+            }
+        },
+        "hasCurrentnessAnnotation": {
+            "inDimension": "http://iso.org/25012/2008/dataquality/Currentness",
+            "hasBody": {
+                "nb": "Nei"
+            }
+        },
+        "publisher": {
+            "orgPath": "/ANNET/910258028",
+            "organisasjonsform": null,
+            "prefLabel": {
+                "nb": "Liland og erdal revisjon"
+            },
+            "name": "LILAND OG ERDAL REVISJON",
+            "id": "910258028",
+            "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+        },
+        "losTheme": [
+            {
+                "code": "vegnett",
+                "isTema": false,
+                "name": {
+                    "nn": "Vegnett",
+                    "nb": "Vegnett",
+                    "en": "Rod network"
+                },
+                "losPaths": [
+                    "trafikk-og-transport/veg-og-vegregulering/vegnett"
+                ],
+                "uri": "https://psi.norge.no/los/ord/vegnett"
+            },
+            {
+                "code": "trafikk-og-transport",
+                "isTema": true,
+                "name": {
+                    "nn": "Trafikk og transport",
+                    "nb": "Trafikk og transport",
+                    "en": "Traffic and transport"
+                },
+                "losPaths": [
+                    "trafikk-og-transport"
+                ],
+                "uri": "https://psi.norge.no/los/tema/trafikk-og-transport"
+            }
+        ],
+        "accrualPeriodicity": {
+            "code": "MONTHLY_3",
+            "prefLabel": {
+                "nn": "tre gongar i månaden",
+                "no": "tre ganger i måneden",
+                "nb": "tre ganger i måneden",
+                "en": "three times a month"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/frequency/MONTHLY_3"
+        },
+        "page": null,
+        "conformsTo": [
+            {
+                "prefLabel": {
+                    "nb": "VG"
+                },
+                "uri": "https://vg.no"
+            }
+        ],
+        "hasCompletenessAnnotation": {
+            "inDimension": "http://iso.org/25012/2008/dataquality/Completeness",
+            "hasBody": {
+                "nb": "Nei"
+            }
+        },
+        "isOpenData": true,
+        "dctType": "Tesauri",
+        "description": {
+            "nb": "Dette er en hyllest av Rune Rudberg.\n\n---\nFormål: Det finnes ikke noe formål."
+        },
+        "hasAvailabilityAnnotation": {
+            "inDimension": "http://iso.org/25012/2008/dataquality/Availability",
+            "hasBody": {
+                "nb": "Nei"
+            }
+        },
+        "title": {
+            "nb": "Ut mot havet"
+        },
+        "distribution": [
+            {
+                "openLicense": true,
+                "accessURL": [
+                    "https://vg.no"
+                ],
+                "downloadURL": null,
+                "format": [
+                    "https://www.iana.org/assignments/media-types/application/json"
+                ],
+                "description": {
+                    "nb": "Dette er en"
+                },
+                "mediaType": [
+                    {
+                        "code": "application/json",
+                        "prefLabel": {
+                            "nb": "application/json"
+                        },
+                        "uri": "https://www.iana.org/assignments/media-types/application/json"
+                    }
+                ],
+                "compressFormat": null,
+                "title": null,
+                "type": null,
+                "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/efceee29-c7c9-4a2b-8bac-5994ff9db837/.well-known/skolem/3c0a3e96-5d4c-326c-9bef-be4952da46ab",
+                "license": [
+                    {
+                        "prefLabel": {
+                            "no": "Norsk lisens for offentlige data",
+                            "en": "Norwegian Licence for Open Government Data"
+                        },
+                        "narrower": null,
+                        "broader": null,
+                        "uri": "http://publications.europa.eu/resource/authority/licence/NLOD_2_0",
+                        "extraType": null
+                    }
+                ],
+                "accessService": null,
+                "packageFormat": null,
+                "conformsTo": [
+                    {
+                        "prefLabel": {
+                            "nb": "VG"
+                        },
+                        "uri": "https://vg.no"
+                    }
+                ],
+                "page": [
+                    {
+                        "prefLabel": null,
+                        "narrower": null,
+                        "broader": null,
+                        "uri": "https://vg.no",
+                        "extraType": null
+                    }
+                ],
+                "fdkFormat": [
+                    {
+                        "code": "application/json",
+                        "name": "json",
+                        "type": "MEDIA_TYPE",
+                        "uri": "https://www.iana.org/assignments/media-types/application/json"
+                    }
+                ]
+            },
+            {
+                "openLicense": false,
+                "accessURL": null,
+                "downloadURL": null,
+                "format": null,
+                "description": null,
+                "mediaType": null,
+                "compressFormat": null,
+                "title": null,
+                "type": null,
+                "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/efceee29-c7c9-4a2b-8bac-5994ff9db837/.well-known/skolem/6a2ce2d7-f2df-3c94-adfb-9f1bb999fc5b",
+                "license": null,
+                "accessService": null,
+                "packageFormat": null,
+                "conformsTo": null,
+                "page": null,
+                "fdkFormat": null
+            }
+        ],
+        "provenance": {
+            "code": "TREDJEPART",
+            "prefLabel": {
+                "nn": "Tredjepart",
+                "nb": "Tredjepart",
+                "en": "Third party"
+            },
+            "uri": "http://data.brreg.no/datakatalog/provinens/tredjepart"
+        },
+        "qualifiedAttributions": null,
+        "inSeries": null,
+        "theme": [
+            {
+                "code": "TRAN",
+                "title": {
+                    "nn": "Transport",
+                    "no": "Transport",
+                    "nb": "Transport",
+                    "en": "Transport"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+            }
+        ],
+        "admsIdentifier": null,
+        "harvest": {
+            "firstHarvested": "2021-03-17T10:00:23Z",
+            "changed": [
+                "2022-11-25T08:30:58Z"
+            ]
+        },
+        "landingPage": [
+            "https://www.vg.no"
+        ],
+        "isAuthoritative": false,
+        "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/efceee29-c7c9-4a2b-8bac-5994ff9db837",
+        "sample": null,
+        "eurovocThemes": null,
+        "themeUris": [
+            "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+            "https://psi.norge.no/los/ord/vegnett",
+            "https://psi.norge.no/los/tema/trafikk-og-transport"
+        ],
+        "accessRights": {
+            "code": "PUBLIC",
+            "prefLabel": {
+                "en": "public"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+        },
+        "legalBasisForAccess": null
+    },
+    {
+        "hasAccuracyAnnotation": null,
+        "references": [
+            {
+                "referenceType": {
+                    "code": "isPartOf",
+                    "prefLabel": {
+                        "nn": "Er del av",
+                        "nb": "Er en del av",
+                        "en": "Is Part Of"
+                    },
+                    "uri": "http://purl.org/dc/terms/isPartOf"
+                },
+                "source": {
+                    "prefLabel": null,
+                    "narrower": null,
+                    "broader": null,
+                    "uri": "https://data.norge.no/node/2214",
+                    "extraType": null
+                }
+            },
+            {
+                "referenceType": {
+                    "code": "isReferencedBy",
+                    "prefLabel": {
+                        "nn": "Er referert av",
+                        "nb": "Er referert av",
+                        "en": "Is Referenced By"
+                    },
+                    "uri": "http://purl.org/dc/terms/isReferencedBy"
+                },
+                "source": {
+                    "prefLabel": null,
+                    "narrower": null,
+                    "broader": null,
+                    "uri": "https://dataut.vegvesen.no/dataset/1b01e41f-0e6b-47c1-b36a-b759389a98ca",
+                    "extraType": null
+                }
+            },
+            {
+                "referenceType": {
+                    "code": "replaces",
+                    "prefLabel": {
+                        "nn": "Erstatter",
+                        "nb": "Erstatter",
+                        "en": "Replaces"
+                    },
+                    "uri": "http://purl.org/dc/terms/replaces"
+                },
+                "source": {
+                    "prefLabel": null,
+                    "narrower": null,
+                    "broader": null,
+                    "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/8a81d42b-8cc0-46ca-8963-fcafd8eb24e7",
+                    "extraType": null
+                }
+            },
+            {
+                "referenceType": {
+                    "code": "source",
+                    "prefLabel": {
+                        "nn": "Er avleda frå (kjelde)",
+                        "nb": "Er avledet fra (kilde)",
+                        "en": "Source"
+                    },
+                    "uri": "http://purl.org/dc/terms/source"
+                },
+                "source": {
+                    "prefLabel": null,
+                    "narrower": null,
+                    "broader": null,
+                    "uri": "https://dataut.vegvesen.no/dataset/ce8d8196-a1b8-4e3f-8423-dda799e1cdb6",
+                    "extraType": null
+                }
+            }
+        ],
+        "contactPoint": null,
+        "subject": null,
+        "catalog": {
+            "publisher": {
+                "orgPath": "/ANNET/910258028",
+                "organisasjonsform": null,
+                "prefLabel": {
+                    "nb": "Liland og erdal revisjon"
+                },
+                "name": "LILAND OG ERDAL REVISJON",
+                "id": "910258028",
+                "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+            },
+            "description": null,
+            "id": "a73bfe26-7cce-3989-822d-df5f7ee1080f",
+            "title": {
+                "nb": "Datakatalog for LILAND OG ERDAL REVISJON"
+            },
+            "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028"
+        },
+        "prev": null,
+        "language": [
+            {
+                "code": "ENG",
+                "prefLabel": {
+                    "nn": "Engelsk",
+                    "no": "Engelsk",
+                    "nb": "Engelsk",
+                    "en": "English"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/language/ENG"
+            },
+            {
+                "code": "NOR",
+                "prefLabel": {
+                    "nn": "Norsk",
+                    "no": "Norsk",
+                    "nb": "Norsk",
+                    "en": "Norwegian"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/language/NOR"
+            },
+            {
+                "code": "SMI",
+                "prefLabel": {
+                    "en": "Sami languages"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/language/SMI"
+            }
+        ],
+        "source": null,
+        "legalBasisForProcessing": [
+            {
+                "prefLabel": {
+                    "nb": "test"
+                },
+                "narrower": null,
+                "broader": null,
+                "uri": "https://lovdata.no/dokument/NL/lov/1915-08-13-5",
+                "extraType": "https://data.norge.no/vocabulary/cpsvno#ruleForDataProcessing"
+            }
+        ],
+        "type": "datasets",
+        "objective": null,
+        "modified": null,
+        "id": "8abc317f-0c85-3908-8223-50e0e1620ebc",
+        "accessRightsComment": null,
+        "keyword": null,
+        "issued": null,
+        "spatial": [
+            {
+                "code": null,
+                "prefLabel": null,
+                "uri": "https://data.geonorge.no/administrativeEnheter/fylke/id/173159"
+            },
+            {
+                "code": null,
+                "prefLabel": null,
+                "uri": "https://data.geonorge.no/administrativeEnheter/kommune/id/172987172681"
+            }
+        ],
+        "temporal": null,
+        "identifier": [
+            "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/993649c4-fd9d-4f49-906a-7ed0ab23cb70"
+        ],
+        "isRelatedToTransportportal": false,
+        "descriptionFormatted": {
+            "nb": "Når testdirektøren er på fest, danser..."
+        },
+        "fdkFormatPrefixed": [],
+        "informationModel": null,
+        "legalBasisForRestriction": [
+            {
+                "prefLabel": {
+                    "nb": "test"
+                },
+                "narrower": null,
+                "broader": null,
+                "uri": "https://lovdata.no/dokument/NL/lov/1915-08-13-5",
+                "extraType": "https://data.norge.no/vocabulary/cpsvno#ruleForNonDisclosure"
+            }
+        ],
+        "hasRelevanceAnnotation": null,
+        "hasCurrentnessAnnotation": null,
+        "publisher": {
+            "orgPath": "/ANNET/910258028",
+            "organisasjonsform": null,
+            "prefLabel": {
+                "nb": "Liland og erdal revisjon"
+            },
+            "name": "LILAND OG ERDAL REVISJON",
+            "id": "910258028",
+            "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+        },
+        "losTheme": [
+            {
+                "code": "skatt-og-avgift",
+                "isTema": true,
+                "name": {
+                    "nn": "Skatt og avgift",
+                    "nb": "Skatt og avgift",
+                    "en": "Taxes and duties"
+                },
+                "losPaths": [
+                    "skatt-og-avgift"
+                ],
+                "uri": "https://psi.norge.no/los/tema/skatt-og-avgift"
+            }
+        ],
+        "accrualPeriodicity": null,
+        "page": null,
+        "conformsTo": null,
+        "hasCompletenessAnnotation": null,
+        "isOpenData": false,
+        "dctType": null,
+        "description": {
+            "nb": "Når testdirektøren er på fest, danser..."
+        },
+        "hasAvailabilityAnnotation": null,
+        "title": {
+            "nb": "Prodtest uten Sindre"
+        },
+        "distribution": null,
+        "provenance": null,
+        "qualifiedAttributions": null,
+        "inSeries": null,
+        "theme": null,
+        "admsIdentifier": null,
+        "harvest": {
+            "firstHarvested": "2021-03-17T10:00:23Z",
+            "changed": [
+                "2023-02-13T15:00:05Z"
+            ]
+        },
+        "landingPage": null,
+        "isAuthoritative": false,
+        "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/993649c4-fd9d-4f49-906a-7ed0ab23cb70",
+        "sample": null,
+        "eurovocThemes": null,
+        "themeUris": [
+            "https://psi.norge.no/los/tema/skatt-og-avgift"
+        ],
+        "accessRights": {
+            "code": "PUBLIC",
+            "prefLabel": {
+                "en": "public"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+        },
+        "legalBasisForAccess": [
+            {
+                "prefLabel": {
+                    "nb": "test"
+                },
+                "narrower": null,
+                "broader": null,
+                "uri": "https://lovdata.no/dokument/NL/lov/1915-08-13-5",
+                "extraType": "https://data.norge.no/vocabulary/cpsvno#ruleForDisclosure"
+            }
+        ]
+    },
+    {
+        "hasAccuracyAnnotation": null,
+        "references": null,
+        "contactPoint": null,
+        "subject": null,
+        "catalog": {
+            "publisher": {
+                "orgPath": "/ANNET/910258028",
+                "organisasjonsform": null,
+                "prefLabel": {
+                    "nb": "Liland og erdal revisjon"
+                },
+                "name": "LILAND OG ERDAL REVISJON",
+                "id": "910258028",
+                "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+            },
+            "description": null,
+            "id": "a73bfe26-7cce-3989-822d-df5f7ee1080f",
+            "title": {
+                "nb": "Datakatalog for LILAND OG ERDAL REVISJON"
+            },
+            "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028"
+        },
+        "prev": null,
+        "language": null,
+        "source": null,
+        "legalBasisForProcessing": null,
+        "type": "datasets",
+        "objective": null,
+        "modified": null,
+        "id": "02b2eae8-4a73-3dbc-a629-6b6d7c0f91fc",
+        "accessRightsComment": null,
+        "keyword": null,
+        "issued": null,
+        "spatial": null,
+        "temporal": null,
+        "identifier": [
+            "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/8a81d42b-8cc0-46ca-8963-fcafd8eb24e7"
+        ],
+        "isRelatedToTransportportal": false,
+        "descriptionFormatted": {
+            "nb": "Dette er norsk",
+            "en": "This is english"
+        },
+        "fdkFormatPrefixed": [
+            "MEDIA_TYPE json",
+            "MEDIA_TYPE html",
+            "MEDIA_TYPE xml"
+        ],
+        "informationModel": null,
+        "legalBasisForRestriction": null,
+        "hasRelevanceAnnotation": null,
+        "hasCurrentnessAnnotation": null,
+        "publisher": {
+            "orgPath": "/ANNET/910258028",
+            "organisasjonsform": null,
+            "prefLabel": {
+                "nb": "Liland og erdal revisjon"
+            },
+            "name": "LILAND OG ERDAL REVISJON",
+            "id": "910258028",
+            "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+        },
+        "losTheme": [
+            {
+                "code": "vaksine",
+                "isTema": false,
+                "name": null,
+                "losPaths": null,
+                "uri": "https://psi.norge.no/los/ord/vaksine"
+            },
+            {
+                "code": "demokrati-og-innbyggerrettigheter",
+                "isTema": true,
+                "name": {
+                    "nn": "Demokrati og innbyggjarrettar",
+                    "nb": "Demokrati og innbyggerrettigheter",
+                    "en": "Democracy and citizen rights"
+                },
+                "losPaths": [
+                    "demokrati-og-innbyggerrettigheter"
+                ],
+                "uri": "https://psi.norge.no/los/tema/demokrati-og-innbyggerrettigheter"
+            },
+            {
+                "code": "naring",
+                "isTema": true,
+                "name": {
+                    "nn": "Næring",
+                    "nb": "Næring",
+                    "en": "Business"
+                },
+                "losPaths": [
+                    "naring"
+                ],
+                "uri": "https://psi.norge.no/los/tema/naring"
+            }
+        ],
+        "accrualPeriodicity": null,
+        "page": null,
+        "conformsTo": null,
+        "hasCompletenessAnnotation": null,
+        "isOpenData": false,
+        "dctType": null,
+        "description": {
+            "nb": "Dette er norsk",
+            "en": "This is english"
+        },
+        "hasAvailabilityAnnotation": null,
+        "title": {
+            "nb": "Lur",
+            "en": "Nap"
+        },
+        "distribution": [
+            {
+                "openLicense": false,
+                "accessURL": [
+                    "https://www.db.no"
+                ],
+                "downloadURL": [
+                    "https://www.db.no"
+                ],
+                "format": [
+                    "https://www.iana.org/assignments/media-types/application/xml",
+                    "https://www.iana.org/assignments/media-types/text/html",
+                    "https://www.iana.org/assignments/media-types/application/json"
+                ],
+                "description": null,
+                "mediaType": [
+                    {
+                        "code": "application/xml",
+                        "prefLabel": {
+                            "nb": "application/xml"
+                        },
+                        "uri": "https://www.iana.org/assignments/media-types/application/xml"
+                    },
+                    {
+                        "code": "text/html",
+                        "prefLabel": {
+                            "nb": "text/html"
+                        },
+                        "uri": "https://www.iana.org/assignments/media-types/text/html"
+                    },
+                    {
+                        "code": "application/json",
+                        "prefLabel": {
+                            "nb": "application/json"
+                        },
+                        "uri": "https://www.iana.org/assignments/media-types/application/json"
+                    }
+                ],
+                "compressFormat": null,
+                "title": {
+                    "nb": "Lureste testen"
+                },
+                "type": null,
+                "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/8a81d42b-8cc0-46ca-8963-fcafd8eb24e7/.well-known/skolem/98053bc7-f0c5-3a58-a994-872b8ad1d832",
+                "license": null,
+                "accessService": null,
+                "packageFormat": null,
+                "conformsTo": null,
+                "page": null,
+                "fdkFormat": [
+                    {
+                        "code": "application/json",
+                        "name": "json",
+                        "type": "MEDIA_TYPE",
+                        "uri": "https://www.iana.org/assignments/media-types/application/json"
+                    },
+                    {
+                        "code": "text/html",
+                        "name": "html",
+                        "type": "MEDIA_TYPE",
+                        "uri": "https://www.iana.org/assignments/media-types/text/html"
+                    },
+                    {
+                        "code": "application/xml",
+                        "name": "xml",
+                        "type": "MEDIA_TYPE",
+                        "uri": "https://www.iana.org/assignments/media-types/application/xml"
+                    }
+                ]
+            }
+        ],
+        "provenance": null,
+        "qualifiedAttributions": null,
+        "inSeries": null,
+        "theme": null,
+        "admsIdentifier": null,
+        "harvest": {
+            "firstHarvested": "2021-03-17T10:00:23Z",
+            "changed": [
+                "2022-11-25T08:30:58Z"
+            ]
+        },
+        "landingPage": null,
+        "isAuthoritative": false,
+        "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/8a81d42b-8cc0-46ca-8963-fcafd8eb24e7",
+        "sample": null,
+        "eurovocThemes": null,
+        "themeUris": [
+            "https://psi.norge.no/los/ord/vaksine",
+            "https://psi.norge.no/los/tema/demokrati-og-innbyggerrettigheter",
+            "https://psi.norge.no/los/tema/naring"
+        ],
+        "accessRights": {
+            "code": "PUBLIC",
+            "prefLabel": {
+                "en": "public"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+        },
+        "legalBasisForAccess": null
+    },
+    {
+        "hasAccuracyAnnotation": null,
+        "references": null,
+        "contactPoint": null,
+        "subject": null,
+        "catalog": {
+            "publisher": {
+                "orgPath": "/ANNET/910258028",
+                "organisasjonsform": null,
+                "prefLabel": {
+                    "nb": "Liland og erdal revisjon"
+                },
+                "name": "LILAND OG ERDAL REVISJON",
+                "id": "910258028",
+                "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+            },
+            "description": null,
+            "id": "a73bfe26-7cce-3989-822d-df5f7ee1080f",
+            "title": {
+                "nb": "Datakatalog for LILAND OG ERDAL REVISJON"
+            },
+            "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028"
+        },
+        "prev": null,
+        "language": null,
+        "source": null,
+        "legalBasisForProcessing": null,
+        "type": "datasets",
+        "objective": null,
+        "modified": null,
+        "id": "7043f101-1027-3aa9-aca2-fed77f783c3e",
+        "accessRightsComment": null,
+        "keyword": null,
+        "issued": null,
+        "spatial": null,
+        "temporal": null,
+        "identifier": [
+            "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/0269f14c-2fd0-49b3-afed-1e116b2464a6"
+        ],
+        "isRelatedToTransportportal": false,
+        "descriptionFormatted": {
+            "nn": "Oppfølgjer",
+            "nb": "Oppfølger til Ut mot havet\n\n---\nFormål: "
+        },
+        "fdkFormatPrefixed": [],
+        "informationModel": null,
+        "legalBasisForRestriction": [
+            {
+                "prefLabel": {
+                    "nn": "Ein tittel",
+                    "nb": "En tittel"
+                },
+                "narrower": null,
+                "broader": null,
+                "uri": "https://vg.no",
+                "extraType": "https://data.norge.no/vocabulary/cpsvno#ruleForNonDisclosure"
+            }
+        ],
+        "hasRelevanceAnnotation": null,
+        "hasCurrentnessAnnotation": null,
+        "publisher": {
+            "orgPath": "/ANNET/910258028",
+            "organisasjonsform": null,
+            "prefLabel": {
+                "nb": "Liland og erdal revisjon"
+            },
+            "name": "LILAND OG ERDAL REVISJON",
+            "id": "910258028",
+            "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+        },
+        "losTheme": [
+            {
+                "code": "mobilitetstilbud",
+                "isTema": true,
+                "name": {
+                    "nn": "Mobilitetstilbod",
+                    "nb": "Mobilitetstilbud",
+                    "en": "Mobility services"
+                },
+                "losPaths": [
+                    "trafikk-og-transport/mobilitetstilbud"
+                ],
+                "uri": "https://psi.norge.no/los/tema/mobilitetstilbud"
+            },
+            {
+                "code": "trafikk-og-transport",
+                "isTema": true,
+                "name": {
+                    "nn": "Trafikk og transport",
+                    "nb": "Trafikk og transport",
+                    "en": "Traffic and transport"
+                },
+                "losPaths": [
+                    "trafikk-og-transport"
+                ],
+                "uri": "https://psi.norge.no/los/tema/trafikk-og-transport"
+            },
+            {
+                "code": "trafikkinformasjon",
+                "isTema": true,
+                "name": {
+                    "nn": "Trafikkinformasjon",
+                    "nb": "Trafikkinformasjon",
+                    "en": "Trafic information"
+                },
+                "losPaths": [
+                    "trafikk-og-transport/trafikkinformasjon"
+                ],
+                "uri": "https://psi.norge.no/los/tema/trafikkinformasjon"
+            }
+        ],
+        "accrualPeriodicity": null,
+        "page": null,
+        "conformsTo": null,
+        "hasCompletenessAnnotation": null,
+        "isOpenData": false,
+        "dctType": null,
+        "description": {
+            "nn": "Oppfølgjer",
+            "nb": "Oppfølger til Ut mot havet\n\n---\nFormål: "
+        },
+        "hasAvailabilityAnnotation": null,
+        "title": {
+            "nn": "Opp ",
+            "nb": "Opp på fjellet"
+        },
+        "distribution": null,
+        "provenance": null,
+        "qualifiedAttributions": null,
+        "inSeries": null,
+        "theme": [
+            {
+                "code": "TRAN",
+                "title": {
+                    "nn": "Transport",
+                    "no": "Transport",
+                    "nb": "Transport",
+                    "en": "Transport"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+            }
+        ],
+        "admsIdentifier": null,
+        "harvest": {
+            "firstHarvested": "2021-03-17T10:00:23Z",
+            "changed": [
+                "2022-11-26T07:51:55Z"
+            ]
+        },
+        "landingPage": null,
+        "isAuthoritative": false,
+        "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/0269f14c-2fd0-49b3-afed-1e116b2464a6",
+        "sample": null,
+        "eurovocThemes": null,
+        "themeUris": [
+            "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+            "https://psi.norge.no/los/tema/mobilitetstilbud",
+            "https://psi.norge.no/los/tema/trafikk-og-transport",
+            "https://psi.norge.no/los/tema/trafikkinformasjon"
+        ],
+        "accessRights": {
+            "code": "NON_PUBLIC",
+            "prefLabel": {
+                "en": "non-public"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/access-right/NON_PUBLIC"
+        },
+        "legalBasisForAccess": null
+    },
+    {
+        "hasAccuracyAnnotation": null,
+        "references": null,
+        "contactPoint": [
+            {
+                "hasURL": "https://www.vg.no",
+                "organizationName": null,
+                "organizationUnit": {
+                    "nb": "asddad"
+                },
+                "fullname": null,
+                "hasTelephone": "45405764",
+                "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/4a447a5a-1f6d-4828-a021-a9079538cb16/.well-known/skolem/796e1d91-c565-3407-8b79-73266e1ca1e9",
+                "email": null
+            }
+        ],
+        "subject": [
+            {
+                "identifier": "http://begrepskatalogen/begrep/698a22be-cb67-11e7-a210-0050568204d6",
+                "prefLabel": {
+                    "nb": "protector lignende som reell rettighetshaver"
+                },
+                "definition": {
+                    "nb": "reell rettighetshaver som beskytter (protector) av den aktuell juridiske innretningen"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/1c833897-dfe5-4422-aaf8-6a1fd9d16211"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/6c325ce7-ff95-11e8-a756-005056823b15",
+                "prefLabel": {
+                    "nb": "gevinst ved realisasjon av andel i norskkontrollerte utenlandske selskap mv i lavskatteland (NOKUS)"
+                },
+                "definition": {
+                    "nb": "gevinst ved salg eller annen realisasjon av andel i norskkontrollerte utenlandske selskap mv i lavskatteland (NOKUS) som ikke er fritatt fra skatteplikt i riket. Gevinst er skattepliktig som alminnelig inntekt"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/2134cae5-8165-4772-919f-4f68be8b2a13"
+            },
+            {
+                "identifier": "https://dataverk.nav.no/begrep/BEGREP-1799",
+                "prefLabel": {
+                    "nb": "Regnskapsbasert fastsetting"
+                },
+                "definition": {
+                    "nb": "Fastsetting av skatt basert på faktiske kostnader og inntekter."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/282a1410-06ce-41e9-92d2-b44fae30b895"
+            },
+            {
+                "identifier": "https://dataverk.nav.no/begrep/BEGREP-679",
+                "prefLabel": {
+                    "nb": "Samtykke"
+                },
+                "definition": {
+                    "nb": "En aksept, godkjenning eller tillatelse."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/28476158-1b1d-4e69-9ad3-f365610bb8d7"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/6b41c6bd-50cd-11e7-b7c5-005056821322",
+                "prefLabel": {
+                    "nb": "skatte-ABC"
+                },
+                "definition": {
+                    "nb": "håndbok som redegjør for skattereglene i skatteloven"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/3907320d-4e84-4f29-a21b-7d8460bd509b"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/b5740883-d96a-11e6-8d9b-005056821322",
+                "prefLabel": {
+                    "nb": "barn under 18 år"
+                },
+                "definition": {
+                    "nb": "barn som ikke har fylt 18 år innen utløpet av skatteleggingsperioden"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/3e7eb7f4-e04e-4e61-93ae-66496ebbddec"
+            },
+            {
+                "identifier": "https://dataverk.nav.no/begrep/BEGREP-379",
+                "prefLabel": {
+                    "nb": "Registrere"
+                },
+                "definition": {
+                    "nb": "Føre inn i register, notere ned eller merke seg."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/3eccb4a5-ea1f-431a-8021-f9778e0da04f"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/46f4d737-4c6c-11e8-bb3e-005056821322",
+                "prefLabel": {
+                    "nb": "gevinst ved realisasjon"
+                },
+                "definition": {
+                    "nb": "positiv differanse når en regner utgangsverdien minus inngangsverdien for en enkelt eller avgrensbar gruppe eiendeler eller forpliktelser som er realisert"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/4977c060-d7d0-4cb2-ac2f-27da329a2f97"
+            },
+            {
+                "identifier": "https://dataverk.nav.no/begrep/BEGREP-1806",
+                "prefLabel": {
+                    "nb": "Skatte-ABC"
+                },
+                "definition": {
+                    "nb": "En håndbok som redegjør for skattereglene i skatteloven."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/53626aa1-85a1-4167-91e4-01db23636b99"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/20b2e245-9fe1-11e5-a9f8-e4115b280940",
+                "prefLabel": {
+                    "nb": "abstraksjonsnivå"
+                },
+                "definition": {
+                    "nb": "grad av det å trekke fra, skille ut, isolere visse trekk og se bort fra andre"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/558dbaca-657c-4a3f-8af3-cb6c401b0441"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/e77484f5-f66e-11ea-9ef9-0050568214e4",
+                "prefLabel": {
+                    "nb": "skattekvittering"
+                },
+                "definition": {
+                    "nb": "dokument som bekrefter rapportert lønn og kildeskatt trukket av arbeidsgiver, samt eventuell refusjon eller myndighetsfastsetting gjort av Skatteetaten"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/56cfd724-530a-45bf-83b0-4a14af36bf09"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/20b52aba-9fe1-11e5-a9f8-e4115b280940",
+                "prefLabel": {
+                    "nb": "oppgavegiver"
+                },
+                "definition": {
+                    "nb": "tredjepart som rapporterer opplysning til Skatteetaten"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/5e79cb82-55a3-49cd-8127-9f6032dab2fd"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/6c325ce9-ff95-11e8-a756-005056823b15",
+                "prefLabel": {
+                    "nb": "gevinst ved realisasjon av fast eiendom i utlandet"
+                },
+                "definition": {
+                    "nb": "verdiøkningen (gevinst) ved salg av fast eiendom utenfor Norge skattlegges i utgangspunktet som alminnelig inntekt. Skatteavtalene med de aktuelle land regulerer blant annet hvilket land du skal betale skatt av gevinst ved salg."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/63a83f93-bf45-4a1d-ba33-ec44df6301a6"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/6c325d5f-ff95-11e8-a756-005056823b15",
+                "prefLabel": {
+                    "nb": "samlet uføreytelse fra andre enn folketrygden"
+                },
+                "definition": {
+                    "nb": "samlet brutto uføreytelser (uføreytelser før skatt) som du får fra andre enn folketrygden ( herunder uføreytelser fra SPK, uføreytelser fra andre pensjonsordninger herunder uføreytelser fra IPA/IPS og uføreytelser fra utlandet) . Uføreytelser regnes som en del av inntektene dine og skattlegges som vanlig lønnsinntekt."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/7dc92e76-44c6-4f2c-a2d9-1ea5a3955f83"
+            },
+            {
+                "identifier": "https://dataverk.nav.no/begrep/BEGREP-2123",
+                "prefLabel": {
+                    "nb": "Den registrerte "
+                },
+                "definition": {
+                    "nb": "En fysisk person som personopplysninger kan knyttes til."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/918c01b9-1c12-463a-a7f6-4b5375b15716"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/20b2e10d-9fe1-11e5-a9f8-e4115b280940",
+                "prefLabel": {
+                    "nb": "generell adresse"
+                },
+                "definition": {
+                    "nb": "ustrukturert format for en adresse"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/9aee24c3-d131-47f0-b0a1-5301c0156904"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/6c325d8e-ff95-11e8-a756-005056823b15",
+                "prefLabel": {
+                    "nb": "verdsettingsrabatt for aksje ikke registrert i verdipapirsentralen"
+                },
+                "definition": {
+                    "nb": "verdsettingsrabatt på for aksje ikke registrert i verdipapirsentralen er en rabatt som trekkes fra før en fastsetter en gitt formuesverdi. Verdsettingsrabatten reduserer grunnlaget for formuesskatt og gir lavere formuesskatt om du har en netto formue som overstiger minstebeløpene for formuesskatt."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/a36bf99d-347b-4c0d-9e5f-bc8b60b35671"
+            },
+            {
+                "identifier": "https://dataverk.nav.no/begrep/BEGREP-1680",
+                "prefLabel": {
+                    "nb": "Manuell saksbehandling"
+                },
+                "definition": {
+                    "nb": "saksbehandling hvor en saksbehandler utfører ett eller flere steg i behandlingen."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/a6f33e15-d8ae-4df2-b49f-1766f1da0151"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/adcad8bc-e67e-11e8-b878-0050568204d6",
+                "prefLabel": {
+                    "nb": "returselskap"
+                },
+                "definition": {
+                    "nb": "selskap/organisasjon som drifter et retur-/gjenvinningssytem"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/ae35e214-45d5-4399-b588-fc13e735574d"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/46f4d72f-4c6c-11e8-bb3e-005056821322",
+                "prefLabel": {
+                    "nb": "framfestenivå"
+                },
+                "definition": {
+                    "nb": "angivelse av et bestemt ledd i en kjede av framfester"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/b0736b5e-3fa4-4b62-a131-88acf5c70e54"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/a0905c20-dc5e-11e5-8127-d6d6eb145c82",
+                "prefLabel": {
+                    "nb": "fritak fra årsavgift"
+                },
+                "definition": {
+                    "nb": "kjøretøy som er fritatt for avgift etter Stortingets vedtak om årsavgift for motorvogner"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/b9210a23-f091-466b-b4f9-85f7e467ab77"
+            },
+            {
+                "identifier": "https://dataverk.nav.no/begrep/BEGREP-1934",
+                "prefLabel": {
+                    "nb": "Lagre"
+                },
+                "definition": {
+                    "nb": "Teknisk å kunne ta vare på dokumentasjon, opplysning og lignende for fremtidig bruk."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/c5e522e6-a4c1-4966-a493-e3cc10998f37"
+            },
+            {
+                "identifier": "https://registrering-begrep-api.staging.fellesdatakatalog.digdir.no/910258028/c4ae179e-6a3a-42bc-85a2-1e32d75fc013",
+                "prefLabel": {
+                    "nn": "lua og sokka",
+                    "nb": "Lue og sokker NY TEST"
+                },
+                "definition": {
+                    "nb": "klesplagg for hode og hender"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/ca1b0dc0-601d-4e04-9fa7-31265649be43"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/60958a8d-3941-11e7-b258-0050568204d6",
+                "prefLabel": {
+                    "nb": "gevinster"
+                },
+                "definition": {
+                    "nb": "positive effekter, fordeler eller gevinster"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/ce98a5f5-1407-46ba-b9ad-438253b9c4dd"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/1e333075-6837-11e6-a7ce-fac03dffe1d7",
+                "prefLabel": {
+                    "nb": "barn under 17 år"
+                },
+                "definition": {
+                    "nb": "barn som ikke har fylt 17 år innen utløpet av skattleggingsperioden"
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/d2ed5acd-7bee-42ee-b143-548788ebd3f7"
+            },
+            {
+                "identifier": "http://begrepskatalogen/begrep/6c325cf3-ff95-11e8-a756-005056823b15",
+                "prefLabel": {
+                    "nb": "inntektsføring av negativ saldo"
+                },
+                "definition": {
+                    "nb": "er saldoen negativ ved utgangen av inntektsåret i saldogruppene a, c, d eller j, skal det inntektsføres minst en så stor prosentandel av den negative saldoen som tilsvarer maksimal avskrivningssats for vedkommende saldogruppe, jf. sktl. § 14-46."
+                },
+                "uri": "https://fellesdatakatalog.brreg.no/api/concepts/d96c5b90-25bd-4837-abb6-87a17d4e43e4"
+            }
+        ],
+        "catalog": {
+            "publisher": {
+                "orgPath": "/ANNET/910258028",
+                "organisasjonsform": null,
+                "prefLabel": {
+                    "nb": "Liland og erdal revisjon"
+                },
+                "name": "LILAND OG ERDAL REVISJON",
+                "id": "910258028",
+                "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+            },
+            "description": null,
+            "id": "a73bfe26-7cce-3989-822d-df5f7ee1080f",
+            "title": {
+                "nb": "Datakatalog for LILAND OG ERDAL REVISJON"
+            },
+            "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028"
+        },
+        "prev": null,
+        "language": null,
+        "source": null,
+        "legalBasisForProcessing": null,
+        "type": "datasets",
+        "objective": null,
+        "modified": null,
+        "id": "f605683c-7414-3702-8031-43ba6a56eda2",
+        "accessRightsComment": null,
+        "keyword": null,
+        "issued": null,
+        "spatial": null,
+        "temporal": null,
+        "identifier": [
+            "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/4a447a5a-1f6d-4828-a021-a9079538cb16"
+        ],
+        "isRelatedToTransportportal": false,
+        "descriptionFormatted": {
+            "nb": "Test av datasett detaljside\n\n---\nFormål: en test"
+        },
+        "fdkFormatPrefixed": [],
+        "informationModel": null,
+        "legalBasisForRestriction": null,
+        "hasRelevanceAnnotation": null,
+        "hasCurrentnessAnnotation": null,
+        "publisher": {
+            "orgPath": "/ANNET/910258028",
+            "organisasjonsform": null,
+            "prefLabel": {
+                "nb": "Liland og erdal revisjon"
+            },
+            "name": "LILAND OG ERDAL REVISJON",
+            "id": "910258028",
+            "uri": "https://organization-catalog.staging.fellesdatakatalog.digdir.no/organizations/910258028"
+        },
+        "losTheme": [
+            {
+                "code": "samfunnssikkerhet-og-beredskap",
+                "isTema": true,
+                "name": {
+                    "nn": "Samfunnstryggleik og beredskap",
+                    "nb": "Samfunnssikkerhet og beredskap",
+                    "en": "Civil protection and emergency planning"
+                },
+                "losPaths": [
+                    "samfunnssikkerhet-og-beredskap"
+                ],
+                "uri": "https://psi.norge.no/los/tema/samfunnssikkerhet-og-beredskap"
+            }
+        ],
+        "accrualPeriodicity": null,
+        "page": null,
+        "conformsTo": null,
+        "hasCompletenessAnnotation": null,
+        "isOpenData": false,
+        "dctType": null,
+        "description": {
+            "nb": "Test av datasett detaljside\n\n---\nFormål: en test"
+        },
+        "hasAvailabilityAnnotation": null,
+        "title": {
+            "nb": "Flere ting"
+        },
+        "distribution": null,
+        "provenance": null,
+        "qualifiedAttributions": null,
+        "inSeries": null,
+        "theme": [
+            {
+                "code": "JUST",
+                "title": {
+                    "nn": "Justis, rettssystem og allmenn tryggleik",
+                    "no": "Justis, rettssystem og allmenn sikkerhet",
+                    "nb": "Justis, rettssystem og allmenn sikkerhet",
+                    "en": "Justice, legal system and public safety"
+                },
+                "uri": "http://publications.europa.eu/resource/authority/data-theme/JUST"
+            }
+        ],
+        "admsIdentifier": null,
+        "harvest": {
+            "firstHarvested": "2021-03-17T10:00:23Z",
+            "changed": [
+                "2023-02-17T08:00:04Z"
+            ]
+        },
+        "landingPage": null,
+        "isAuthoritative": false,
+        "uri": "https://registrering.staging.fellesdatakatalog.digdir.no/catalogs/910258028/datasets/4a447a5a-1f6d-4828-a021-a9079538cb16",
+        "sample": null,
+        "eurovocThemes": null,
+        "themeUris": [
+            "http://publications.europa.eu/resource/authority/data-theme/JUST",
+            "https://psi.norge.no/los/tema/samfunnssikkerhet-og-beredskap"
+        ],
+        "accessRights": {
+            "code": "PUBLIC",
+            "prefLabel": {
+                "en": "public"
+            },
+            "uri": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+        },
+        "legalBasisForAccess": null
+    }
+]
